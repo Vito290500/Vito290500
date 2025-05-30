@@ -1,5 +1,5 @@
 # Vito- Aspirant Full Stack Developer
-HI there!👋 I'm Vito, i'm from italy and i'm 23 years old.
+HI there!👋 I'm Vito, i'm from italy and i'm 25 years old.
 I love Tech and Coding and now i'm focus on improve my Coding Skills.
 
 - ✅ I'm currently focus on Improve my front-end skill by following Udemy course.
@@ -23,6 +23,9 @@ I love Tech and Coding and now i'm focus on improve my Coding Skills.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
 ## Statistics
