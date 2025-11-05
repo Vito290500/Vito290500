@@ -1,4 +1,4 @@
-# Vito- Aspirant Full Stack Developer
+# Vito - Full Stack Developer
 HI there!👋 I'm Vito, i'm from italy and i'm 25 years old.
 I love Tech and Coding and now i'm focus on improve my Coding Skills.
 
